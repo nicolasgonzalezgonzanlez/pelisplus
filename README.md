@@ -28,7 +28,13 @@ El tiempo de desarrollo de la aplicacion fue la siente:
 ```
 En esta oportunidad, me tome una hora para pensar y crear un pequeño esquema tanto para la parte visual 
 como para los diferentes componetes que iba a utilizar.
-Por esta razon, no comente mi codigo... si no que cree uml para facilitar la comprension de los componentes
+Por esta razon, y por no saber si iba a llegar no comente mi codigo... si no que cree uml para facilitar la comprension de los componentes
+```
+[Diagrama de entidad](https://www.lucidchart.com/documents/edit/5a3bef4e-1c4c-4a1a-8e47-4b8e69d7fcd9/0_0?shared=true)
+
+```
+Hace falta comentar todo este codigo, por mas que sea sencillo (a mi entender)
+en un tiempo me voy a olvidar de lo que hice y porque lo hice.
 ```
 
 ## Project setup
