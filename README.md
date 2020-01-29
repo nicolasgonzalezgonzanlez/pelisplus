@@ -17,7 +17,7 @@ Para poder realizar este proyecto consumi las siguientes Frameworks.
 
 [Firebase](https://firebase.google.com/) Utilice firebase para hacer el deploy del sitio.
 
-El tiempo de desarrollo de la aplicacion fue la sigiente:
+El tiempo de desarrollo de la aplicacion fue la siguiente:
 
 9 pm a 12 pm
 
