@@ -1,5 +1,5 @@
 # pelisplus
-
+![texto cualquiera por si no carga la imagen](https://github.com/nicolasgonzalezgonzanlez/pelisplus/blob/master/news.gif)
 ## Project setup
 ```
 npm install
