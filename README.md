@@ -1,7 +1,9 @@
 # pelisplus
 
 ### PelisPlus, es parte de un reto para Avalith, este mismo proyecto luego fue creado con react
+
 [Miralo en vivo](https://pelisplus-avalith.web.app/)
+
 ![texto cualquiera por si no carga la imagen](https://github.com/nicolasgonzalezgonzanlez/pelisplus/blob/master/news.gif)
 ## Project setup
 ```
